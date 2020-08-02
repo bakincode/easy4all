@@ -1,2 +1,2 @@
 # easy4all
-website with some programming stuff
+Website with some programming stuff
